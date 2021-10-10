@@ -1,5 +1,6 @@
 package co.fx;
-
+/** W A P to translate String to any International language or
+ * local Language*/
 import java.lang.reflect.Field;
 
 public class StringTranslatorExam {

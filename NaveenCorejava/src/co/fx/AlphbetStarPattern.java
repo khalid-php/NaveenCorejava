@@ -1,5 +1,11 @@
 package co.fx;
-
+/**
+ * @apiNote  the star pattern 
+ * look like-
+ * 	B 
+	C C 
+	D D D 
+	E E E E */
 public class AlphbetStarPattern {
 
 	public static void main(String[] args) {
